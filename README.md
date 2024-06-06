@@ -51,7 +51,7 @@ Implement functionality for adding, deleting, completing, and editing tasks.
 Local Storage
 Store tasks data to maintain persistence across page reloads
 
-
+![TASK1](https://github.com/Sankeerthanachikati123/CODETECH-TASK1/assets/166939538/5eac8d74-50d2-46c0-8280-3f1ca66f7003)
 
 
 
