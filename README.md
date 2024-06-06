@@ -51,6 +51,9 @@ Implement functionality for adding, deleting, completing, and editing tasks.
 Local Storage
 Store tasks data to maintain persistence across page reloads
 
+![To-Do List App - Brave 05-06-2024 23_48_53](https://github.com/Sankeerthanachikati123/CODETECH-TASK1/assets/166939538/5ce7508e-f444-41f1-bbac-ab958c2731c6)
+
+
 
 
 
